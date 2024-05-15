@@ -6,18 +6,27 @@
 ##Ingredients:
 
 1 cup flour
+
 1/2 cup sugar
+
 2 eggs
+
 1/4 cup milk
+
 1 tsp vanilla extract
 
 ##Instructions:
 
 Preheat oven to 350°F (175°C).
+
 In a mixing bowl, combine flour and sugar.
+
 Add eggs, milk, and vanilla extract. Mix until smooth.
+
 Pour batter into a greased baking dish.
+
 Bake for 25-30 minutes or until golden brown.
+
 Allow to cool before serving.
 
 ##Description:
