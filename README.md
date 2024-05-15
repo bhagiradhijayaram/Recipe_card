@@ -1,9 +1,9 @@
 ## Simple Recipe Card
-Preparation Time:
+#Preparation Time:
 
 30 minutes
 
-Ingredients:
+#Ingredients:
 
 1 cup flour
 1/2 cup sugar
@@ -11,7 +11,7 @@ Ingredients:
 1/4 cup milk
 1 tsp vanilla extract
 
-Instructions:
+#Instructions:
 
 Preheat oven to 350°F (175°C).
 In a mixing bowl, combine flour and sugar.
@@ -20,7 +20,7 @@ Pour batter into a greased baking dish.
 Bake for 25-30 minutes or until golden brown.
 Allow to cool before serving.
 
-Description:
+#Description:
 
 This simple recipe card provides a quick and easy way to make delicious baked goods. With just a handful of ingredients and minimal prep time, you can whip up a tasty treat in no time. Whether you're a beginner or an experienced baker, this recipe is sure to satisfy your sweet tooth.
 
