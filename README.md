@@ -17,17 +17,17 @@
 
 ##Instructions:
 
-Preheat oven to 350°F (175°C).
+1.Preheat oven to 350°F (175°C).
 
-In a mixing bowl, combine flour and sugar.
+2.In a mixing bowl, combine flour and sugar.
 
-Add eggs, milk, and vanilla extract. Mix until smooth.
+3.Add eggs, milk, and vanilla extract. Mix until smooth.
 
-Pour batter into a greased baking dish.
+4.Pour batter into a greased baking dish.
 
-Bake for 25-30 minutes or until golden brown.
+5.Bake for 25-30 minutes or until golden brown.
 
-Allow to cool before serving.
+6.Allow to cool before serving.
 
 ##Description:
 
