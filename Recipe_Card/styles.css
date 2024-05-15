@@ -1,0 +1,175 @@
+/* Existing CSS */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --white: hsl(0, 0%, 100%);
+    --rosewhite: hsl(330, 100%, 98%);
+    --eggshell: hsl(30, 54%, 90%);
+    --lightgrey: hsl(30, 18%, 87%);
+    --wengebrown: hsl(30, 10%, 34%);
+    --darkcharcoal: hsl(24, 5%, 18%);
+    --nutmeg: hsl(14, 45%, 36%);
+    --darkraspberry: hsl(332, 51%, 32%);
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: antiquewhite;
+}
+
+#recipe{
+    padding: 30px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.heading{
+    font-size: 40px;
+    padding: 20px 0px;
+}
+
+img{
+    border-radius: 15px;
+}
+
+.preparation{
+    padding: 20px;
+    margin-top: 30px;
+    background-color: var(--rosewhite);
+}
+
+.preparation h2{
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: .5rem;
+    color: var(--darkraspberry);
+}
+
+.preparation ul{
+    padding: 20px;
+}
+
+.preparation ul li{
+    padding: 5px;
+}
+
+#recipe h1{
+    font-family: 'Young serif', sans-serif;
+    font-weight: 400;
+    margin-top: 1rem;
+    color: var(--darkcharcoal);
+}
+
+.ingredients{
+    padding: 20px 0px;
+}
+
+.ingredients ul{
+    padding: 20px;
+}
+
+.ingredients ul li{
+    padding: 5px;
+}
+
+.instructions{
+    padding: 20px 0px;
+}
+
+.instructions ol{
+    padding: 20px;
+}
+
+.instructions ol li{
+    padding: 5px;
+}
+
+.nutrition{
+    padding: 20px 0px;
+}
+
+.ingredients h2, .instructions h2 , .nutrition h2{
+    color: var(--nutmeg);
+    font-family: 'Young serif', sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    margin-top: 2rem;
+}
+
+.table{
+    margin-top: 0;
+}
+
+.description{
+    font-size: 15px;
+    font-weight: 450;
+    color: var(--wengebrown);
+    line-height: 1.5;
+    margin-top: 1rem;
+    padding-bottom: 2rem;
+}
+
+.table .item{
+    color: var(--wengebrown);
+    padding: .75rem 2rem;
+    display: flex;
+    border-bottom: 1px solid var(--lightgrey);
+}
+
+.table .item:last-child{
+    border-bottom: 0;
+}
+
+.table .item p:nth-child(2){
+    color: var(--nutmeg);
+    font-weight: 700;
+}
+
+.table .item >*{
+    width: 100px;
+    margin-right: auto;
+}
+
+strong{
+    color: var(--wengebrown);
+}
+
+/* Responsive styles for screens up to 540px width */
+
+@media (max-width: 540px) {
+    .main {
+        flex-direction: column;
+        align-items: center;
+    }
+    #recipe {
+        width: 90%;
+    }
+    .heading {
+        font-size: 30px;
+    }
+    img {
+        width: 100%;
+    }
+    .preparation, .ingredients, .instructions, .nutrition {
+        padding: 10px;
+    }
+    .preparation h2, .ingredients h2, .instructions h2, .nutrition h2 {
+        font-size: 20px;
+    }
+    .description {
+        font-size: 13px;
+    }
+    .table .item {
+        padding: .5rem 1rem;
+    }
+    .table .item p:nth-child(2) {
+        font-size: 14px;
+    }
+}
